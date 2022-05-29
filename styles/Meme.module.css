@@ -1,0 +1,18 @@
+.meme {
+    min-height: 100vh;
+    padding: 4rem 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #40a3a7;
+}
+
+.prerender {
+    display: flex;
+    justify-content: center;
+    padding: 2em 0;
+    background: rgb(37, 184, 152);
+    width: 100px;
+    height: 100px;
+}
